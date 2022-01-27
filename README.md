@@ -9,9 +9,9 @@ vanilla JS along with HTML, and CSS. I'm making a the same projects using React 
 
 ## Demo
 
-![Search Screen](./images/initial.png).
+![Search Screen](./public/images/initial.png).
 
-![Result Screen](./images/filled.png).
+![Result Screen](./public/images/filled.png).
 
 ## Available Scripts
 
